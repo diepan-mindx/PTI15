@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Note 1",
+    "title": "Shopping List",
+    "note": "Buy milk, eggs, and bread.",
+    "created_by": "user1@example.com",
+    "created_at": "2024-10-12T10:00:00Z",
+    "tag": "personal"
+  },
+  {
+    "id": 2,
+    "name": "Note 2",
+    "title": "Work Tasks",
+    "note": "Finish the project report by Friday.",
+    "created_by": "user1@example.com",
+    "created_at": "2024-10-10T14:00:00Z",
+    "tag": "work"
+  },
+  {
+    "id": 6,
+    "name": "Note 1",
+    "title": "Reading List",
+    "note": "Read 'The Great Gatsby' and '1984'.",
+    "created_by": "user3@example.com",
+    "created_at": "2024-10-11T08:00:00Z",
+    "tag": "personal"
+  },
+  {
+    "id": 7,
+    "name": "Note 2",
+    "title": "Workout Plan",
+    "note": "Gym on Monday, Wednesday, and Friday.",
+    "created_by": "user3@example.com",
+    "created_at": "2024-10-12T09:00:00Z",
+    "tag": "health"
+  },
+  {
+    "id": 8,
+    "name": "Note 1",
+    "title": "Project Ideas",
+    "note": "Brainstorm new project ideas for next quarter.",
+    "created_by": "user4@example.com",
+    "created_at": "2024-10-12T13:00:00Z",
+    "tag": "work"
+  },
+  {
+    "id": 9,
+    "name": "Note 2",
+    "title": "Dinner Plans",
+    "note": "Make reservations for Saturday night.",
+    "created_by": "user4@example.com",
+    "created_at": "2024-10-12T15:00:00Z",
+    "tag": "personal"
+  },
+  {
+    "id": 10,
+    "name": "Note 1",
+    "title": "Budget Review",
+    "note": "Review monthly expenses and savings.",
+    "created_by": "user5@example.com",
+    "created_at": "2024-10-12T14:00:00Z",
+    "tag": "finance"
+  },
+  {
+    "id": 3,
+    "name": "Note 1",
+    "title": "Vacation Plan",
+    "note": "Book flights to Spain.",
+    "created_by": "user2@example.com",
+    "created_at": "2024-10-11T09:30:00Z",
+    "tag": "travel"
+  },
+  {
+    "id": 4,
+    "name": "Note 2",
+    "title": "Grocery List",
+    "note": "Apples, bananas, oranges.",
+    "created_by": "user2@example.com",
+    "created_at": "2024-10-12T11:00:00Z",
+    "tag": "personal"
+  },
+  {
+    "id": 5,
+    "name": "Note 3",
+    "title": "Meeting Notes",
+    "note": "Discuss project timeline in the next meeting.",
+    "created_by": "user2@example.com",
+    "created_at": "2024-10-12T12:00:00Z",
+    "tag": "work"
+  },
+  {
+    "id": 3,
+    "title": "dfsd",
+    "note": "fdsfds",
+    "created_by": "user2@example.com",
+    "tag": "fdsf"
+  },
+  {
+    "id": 4,
+    "title": "fdsfd",
+    "note": "fdffsd",
+    "created_by": "user2@example.com",
+    "tag": "fd"
+  }
+]
